@@ -497,12 +497,14 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 https://streamer103.neterra.tv/travel/live.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/homegarden.png" group-title="XemTV",HGTV
 https://fl1.moveonjoy.com/HGTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/dw.png" group-title="XemTV",DW
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/dw.png" group-title="XemTV",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/tv5monde.jpg" group-title="XemTV",TV5MONDE
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/bloomberg.png" group-title="XemTV",Bloomberg
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/bloomberg.png" group-title="XemTV",Bloomberg ASIA
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/bloomberg.png" group-title="XemTV",Bloomberg USA
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/sony.png" group-title="XemTV",Sony Channel TV
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/Outdoor.png" group-title="XemTV",Outdoor TV
@@ -559,6 +561,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-
 https://careco-outdoor-action-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/viasat-explore.jpg" group-title="XemTV",Viasat Explore
 https://amg00111-hearstmediaprod-xploreintlnl-samsungnl-rx86v.amagi.tv/ts-eu-w1-n2/playlist/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vidgrid.tk.gg/thumbnails/Al_Jazeera.svg" group-title="XemTV",Al Jazeera English
+https://live-hls-apps-aje-fa.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/cnn.png" group-title="XemTV",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/cnn.png" group-title="XemTV",CNN HD
@@ -567,8 +571,12 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/bbc-earth.png" group-title="XemTV",BBC Earth
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
-#EXTINF:-1 tvg-logo="https://vidgrid.tk.gg/thumbnails/BBC_News.svg" group-title="XemTV",BBC News
+#EXTINF:-1 tvg-logo="https://hd.xemtv.net/image/bbc-world-news.png" group-title="XemTV",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-logo="https://hd.xemtv.net/image/nhk.png" group-title="XemTV",NHK World
+https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/e52230f79050aa333c4ac6430f40a08f0898e6ec1c43d5cb9bcb82f9573797c4/v2.m3u8
+#EXTINF:-1 tvg-logo="https://hd.xemtv.net/image/cgtn.png" group-title="XemTV",CGTN
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/abc-news.png" group-title="XemTV",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/cnbc.jpg" group-title="XemTV",CNBC News
@@ -799,6 +807,7 @@ https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/strongman.jpg" group-title="XemTV",Strong Man TV
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 
 
 
