@@ -572,7 +572,7 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/bbc-earth.png" group-title="XemTV",BBC Earth
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 #EXTINF:-1 tvg-logo="https://hd.xemtv.net/image/bbc-world-news.png" group-title="XemTV",BBC News
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8
 #EXTINF:-1 tvg-logo="https://hd.xemtv.net/image/nhk.png" group-title="XemTV",NHK World
 https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/e52230f79050aa333c4ac6430f40a08f0898e6ec1c43d5cb9bcb82f9573797c4/v2.m3u8
 #EXTINF:-1 tvg-logo="https://hd.xemtv.net/image/cgtn.png" group-title="XemTV",CGTN
