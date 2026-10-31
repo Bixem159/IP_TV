@@ -44,13 +44,13 @@ https://freem3u.xyz/api/live/play.m3u8?vid=193
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv9.png" group-title="XemTV",HTV9
 https://freem3u.xyz/api/live/play.m3u8?vid=194
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vinhlong1.png" group-title="XemTV",THVL1 HD
-https://live.fptplay53.net/epzhd2/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=25
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vinhlong2.png" group-title="XemTV",THVL2 HD
-https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=26
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vinhlong3.png" group-title="XemTV",THVL3 HD
-https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=219
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vinhlong4.png" group-title="XemTV",THVL4 HD
-https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=220
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png", Canal+ Foot
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 1
