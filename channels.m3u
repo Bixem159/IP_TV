@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv1.png" group-title="XemTV",VTV1
-https://livecdn-vthcm-bp.vieon.vn/aece8530a23f789c622cddfb3a69f416/1793528454000/livetv/group-03/3b0d13cc45a5e637e4672ba354d7e8b5/playlist.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/master.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv2.png" group-title="XemTV",VTV2
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv2/master.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv3.png" group-title="XemTV",VTV3
